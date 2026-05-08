@@ -21,7 +21,9 @@ Honors:
 * TMR 2019 (RoboCup Mexican Open) 5th place RoboCup Junior Soccer Open
 * WRO 2019: 1st place RoboSports
 * TMR 2024 (RoboCup Mexican Open) 5th place RoboCup Junior Soccer Lightweight
+* WRO 2024: 1st place RoboSports
 * TMR 2025 (RoboCup Mexican Open): 2st place RoboCup Junior Soccer Lightweight  / 3nd place RoboCup Junior Soccer Open
+* WRO 2025: 4th place RoboSports
 * TMR 2026 (RoboCup Mexican Open) 1st place RoboCup Junior Soccer Vision / 4th place RoboCup Junior Soccer Infrared
   
 <!--
