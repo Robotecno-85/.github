@@ -1,6 +1,8 @@
-## Welcome to Robotecno 85
+## Hi there!! Welcome to Robotecno 85
 
-<img width="206" height="206" alt="image" src="https://github.com/user-attachments/assets/7c97ab97-8b73-4486-b9fa-be2a8ff68678" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d0356c3b-35c6-41f6-92cc-644f5c0e84ed" />
+
+
 
 
 We are a robotics club representing Secundaria Rosaura Gómez Reina No. 85 from Juárez, Nuevo León, since 2012 with a good trajectory in national and international competitions.
