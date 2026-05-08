@@ -1,4 +1,4 @@
-# .github
+# Robotecno 85
 
 
 We are a robotics club representing Secundaria Rosaura Gómez Reina No. 85 from Juárez, Nuevo León, since 2012 with a good trajectory in national and international competitions.
