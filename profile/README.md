@@ -12,13 +12,13 @@ International participations:
 * WRO Open Championship 2025 Panama City
 
 Honors:
-* TMR 2012 (RoboCup Mexican Open)   1st place RoboCup Junior Soccer 
-* TMR 2016 (RoboCup Mexican Open)  1st place RoboCup Junior Soccer lightweight secondary/  2st place RoboCup Junior Soccer lightweight primary
-* TMR 2018 (RoboCup Mexican Open)  2do place RoboCup Junior Soccer Lightweight
-* TMR 2019 (RoboCup Mexican Open)  5th place RoboCup Junior Soccer Open
+* TMR 2012 (RoboCup Mexican Open) 1st place RoboCup Junior Soccer 
+* TMR 2016 (RoboCup Mexican Open) 1st place RoboCup Junior Soccer Lightweight Secondary / 2nd place RoboCup Junior Soccer Lightweight Primary
+* TMR 2018 (RoboCup Mexican Open) 2nd place RoboCup Junior Soccer Lightweight
+* TMR 2019 (RoboCup Mexican Open) 5th place RoboCup Junior Soccer Open
 * WRO 2019: 1st place RoboSports
 * TMR 2024 (RoboCup Mexican Open): 5th place RoboCup Junior Soccer Lightweight
-* 
+  
 <!--
 
 **Here are some ideas to get you started:**
